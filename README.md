@@ -1,6 +1,6 @@
 # Networking Troubleshooting Commands
 
-show inventory description
+show inventory description  
 [inventory] - [statius] - [protocol description]
 
 Status output description:
